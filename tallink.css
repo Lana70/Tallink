@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    table-layout: fixed;
+    background-color: #A6E2FF;
+    border: 2;
+    align-self: left;
+}
+
+td {
+    font-size: 12px;
+}
+
+.image {
+    background: url("turkoosi-meri.jpg") no-repeat center;
+    background-size: cover;
+    height: 50px;
+}
+
+.laiva {
+    background: url("tallink_isabelle.jpg") no-repeat center;
+    background-size: contain;
+    width: 410px;
+    height: 250px;
+}
+
+.body {
+    font-family: Arial;
+    padding: 30px;
+}
+
+.block {
+    height: 300;
+    background-color: #A6E2FF;
+}
+
+.element style {
+    color: #003399;
+}
+
+.image-center {
+    display: block;
+    margin: auto;
+}
+
+.table {
+    width: 800;
+}
+
+.table {
+    font-style: #A6E2FF;
+}
+
+.box {
+    background: url(../img/tallink_isabelle.jpg);
+}
